@@ -1,7 +1,7 @@
-# VBA_Chalange
+# VBA-Challenge
 
 
-# AnalyzeStockData
+# Analyze Stock Data
 
 Designed for in-depth analysis and summarization, this Excel VBA script systematically processes stock market data spread across multiple worksheets in an Excel workbook. The script meticulously computes and displays critical metrics for individual stock tickers, such as yearly change, percent change, and total stock volume. Furthermore, it creates an additional summary table that showcases stocks with notable percent increases, percent decreases, and total volume across all sheets.
 
